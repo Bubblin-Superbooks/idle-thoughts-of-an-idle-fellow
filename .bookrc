@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Idle Thoughts of an Idle Fellow",
-  "type": "text"
+  "type": "text",
+  "book_id": 605
 }
